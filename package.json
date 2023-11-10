@@ -1,0 +1,15 @@
+{
+  "name": "explore_the_planets",
+  "version": "1.0.0",
+  "description": "The website built using the node.js to explore the universe to rehabilitate ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Savan Patel",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
+}
